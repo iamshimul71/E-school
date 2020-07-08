@@ -1,0 +1,237 @@
+/*#######Basic setup######## */
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+.my-btn {
+    border: none;
+    padding: 7px 30px;
+    background-color: #21B573;
+    border-radius: 31px;
+    color: #fff;
+
+}
+
+.all-box-size {
+    margin-bottom: 80px;
+}
+
+/*########## End basic setup ##########*/
+
+
+
+/* ####### Start  banner section ######### */
+.active1 {
+    background-color: #21B573;
+    margin-right: 5px;
+    border-radius: 10px;
+    color: #fff !important;
+
+}
+
+.nb-c {
+    color: black !important;
+}
+
+.top-banner {
+    background-color: #F0FFF0;
+}
+
+.banner {
+    padding: 20px 0px;
+}
+
+.banner h1 {
+    font-weight: 800;
+
+}
+
+.banner p {
+    color: #999796;
+    font-size: 14px;
+}
+
+.banner h6 {
+    color: orangered;
+}
+
+.banner span {
+    color: #21B573;
+}
+
+/* ####### End banner section ######### */
+
+
+/* ####### Start overview section ######### */
+.overvew {
+    text-align: center;
+    border: none;
+    background-color: #F0FFF0;
+}
+
+.overvew p {
+    color: #999796;
+    font-size: 14px;
+}
+
+.overvew:hover {
+    background-color: #fff;
+    box-shadow: 5px 5px 10px gray;
+    transition: .5s;
+}
+
+.overvew img {
+    padding-top: 5%;
+}
+
+.overvew h5 {
+    font-weight: bold;
+    color: #423961;
+}
+
+/* ####### End overview section ######### */
+
+
+/* ######## start online courses #########*/
+.course-head {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #423961;
+    font-weight: 800;
+}
+
+.online-course h5 {
+    font-weight: bold;
+    color: #423961;
+    ;
+}
+
+.online-course img {
+    width: 90%;
+    padding-top: 5%;
+}
+
+.online-course h6 {
+    color: #585859
+}
+
+.online-course span {
+    font-size: 12px;
+    color: #575958;
+    position: relative;
+    top: 5px;
+    font-weight: bold;
+}
+
+.crs-size {
+    text-align: right;
+}
+
+.crs-btn {
+
+    border: none;
+
+    background: #21B573;
+    color: #fff;
+    font-size: 14px;
+    padding: 4px 20px;
+    border-radius: 20px;
+    margin-bottom: 10%;
+}
+
+.icon img {
+    width: 15%;
+
+
+}
+
+.online-course {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+/* ####### End Online courses ############ */
+
+
+
+
+
+
+
+/*####### start testmonial #########*/
+
+.tst-head {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #000000;
+    font-weight: 800;
+}
+
+.test-monial p {
+    font-size: 18px;
+    color: black;
+    margin-top: 7%;
+    font-family: 'Sahitya', serif;
+}
+
+/*####### End testmonial #########*/
+
+/*###### Start  oncoming teacher ###########*/
+.on-head {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #423961;
+    font-weight: 800;
+}
+
+.oncoming-tc {
+    box-shadow: 10px 10px 15px lightgray;
+    border-radius: 10px;
+
+
+}
+
+.feature-tc h1 {
+    color: #282531;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+/* ####### End oncoming teacher ########### */
+
+/*######## Start footer ########### */
+.footer {
+    background-color: #282531;
+    color: #fff;
+    padding: 50px;
+}
+
+.footer ul li {
+    list-style: none;
+}
+
+.footer ul li:first-child {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer p {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.footer span {
+    position: relative;
+    bottom: 47px;
+}
+
+
+/*######## End footer ########### */
